@@ -1,4 +1,4 @@
 this is a text file added by peter,
 aimed to learn git skills.
 
-create a new branch is quick and easy!
+create a new branch is quick and SIMPLE!
